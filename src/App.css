@@ -1,13 +1,4 @@
-.App {
-  margin: 20px;
-  position: relative;
-  background: linear-gradient(-225deg, #5d9fff 0%, #b8dcff 48%, #6bbbff 100%);
-  max-width: 800px;
-  margin: 25px auto;
-  padding: 15px;
-  border-radius: 16px;
-  box-shadow: 0 30px 50px rgb(65 50 100 / 8%);
-}
+
 body {
   margin: 0;
   font-family: sans-serif;
@@ -51,15 +42,14 @@ li:first-letter {
   text-transform: capitalize;
 }
 a {
-  color: #dadde1;
-  text-decoration: none;
+  color: black;
 }
 a:hover {
   text-decoration: underline;
 }
 footer {
-  color: #dadde1;
-  margin-left: 500px;
+  color: black;
+  text-align: center;
 }
 div .weather-details {
   color: #383737;
